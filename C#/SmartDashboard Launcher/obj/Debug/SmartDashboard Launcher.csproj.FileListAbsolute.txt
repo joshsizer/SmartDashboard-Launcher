@@ -1,0 +1,9 @@
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\bin\Debug\SmartDashboard Launcher.exe.config
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\bin\Debug\SmartDashboard Launcher.exe
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\bin\Debug\SmartDashboard Launcher.pdb
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\obj\Debug\SmartDashboard Launcher.csprojResolveAssemblyReference.cache
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\obj\Debug\SmartDashboard Launcher.exe
+c:\users\joshs\documents\visual studio 2015\Projects\SmartDashboard Launcher\SmartDashboard Launcher\obj\Debug\SmartDashboard Launcher.pdb
+C:\Users\joshs\Documents\GitHub\SmartDashboard Launcher\C#\SmartDashboard Launcher\bin\Debug\SmartDashboard Launcher.exe.config
+C:\Users\joshs\Documents\GitHub\SmartDashboard Launcher\C#\SmartDashboard Launcher\obj\Debug\SmartDashboard Launcher.exe
+C:\Users\joshs\Documents\GitHub\SmartDashboard Launcher\C#\SmartDashboard Launcher\obj\Debug\SmartDashboard Launcher.pdb
