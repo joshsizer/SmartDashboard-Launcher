@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using Microsoft.Win32;
 
 namespace SmartDashboard_Launche {
-    class Program {
+    class Launcher {
 
         //Gets the installation path of java
         private static String GetJavaInstallationPath()
